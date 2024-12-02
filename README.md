@@ -1,5 +1,5 @@
 # Ritika-shukla
 This is my first Git Repository.
 <br>
-Author-Ritika (Riti sourya)
+Author-Ritika (Riti shukla)
 
